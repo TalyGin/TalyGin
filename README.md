@@ -6,9 +6,9 @@ legacy products into cloud infrastructure.
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalyGin"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; widt: 800px; height: 600px;" />
      
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalyGin"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;  widt: 800px; height: 600px;" />
 
